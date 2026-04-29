@@ -8,4 +8,4 @@ This repository contains the Software Engineering coursework tasks for the Sukoo
 Sukoon is a digital hospital support application designed to improve the experience of patients and visitors through smart hospital navigation, appointment support, reminders, and emotional AI assistance.
 
 ## Tasks
-- [Task 2 – Requirements Engineering](Task2/README.md)
+- Task 2 – Requirements Engineering
