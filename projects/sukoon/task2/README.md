@@ -1,19 +1,11 @@
-# Task 2 – Requirements Engineering
+# Software Engineering Tasks
 
-## Project:
-Sukoon – Smart Hospital Support Application
+This repository contains the Software Engineering coursework tasks for the Sukoon project.
 
-## Description
-This section contains the requirements engineering work for Task 2.
+## Project
+**Sukoon – Smart Hospital Support Application**
 
-## Included Documents
+Sukoon is a digital hospital support application designed to improve the experience of patients and visitors through smart hospital navigation, appointment support, reminders, and emotional AI assistance.
 
-- mission.md
-- roadmap.md
-- feature1.md
-- validation1.md
-- feature2.md
-- validation2.md
-
-## Goal
-To define project requirements, startup constitution, and early product iterations.
+## Tasks
+- [Task 2 – Requirements Engineering](Task2/README.md)
